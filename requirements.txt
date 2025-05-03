@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+tensorflow
+gspread
+oauth2client
+firebase-admin
+python-dotenv
+pytz
